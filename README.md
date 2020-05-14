@@ -1,7 +1,10 @@
 # locationui
 
-A new Flutter application.
-
+A new WeatherApp Flutter UI.
+Language Used - Dart
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54171077/81931484-d7f02b00-9607-11ea-927c-719a3c852ee9.png" width="350" title="hover text">
+  </p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
